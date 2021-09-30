@@ -6,8 +6,9 @@ This git repository contains the engineering project report and the source code 
 
 Files on the archive:
 
-/ : This directory contains the source code for the blackjack simulator, an installation guide for additional libraries and the engineering project report
-/MachineLearningPlayer : This directory contains the source code and the model for the machine learning player
+/ : This directory contains the source code for the blackjack simulator, an installation guide for additional libraries and the engineering project report.
+
+/MachineLearningPlayer : This directory contains the source code and the model for the machine learning player.
 
 
 Software Requirements:
