@@ -1,0 +1,11 @@
+x, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, a-2, a-3, a-4, a-5, a-6, a-7, a-8, a-9, a-10, 2-2, 3-3, 4-4, 5-5, 6-6, 7-7, 8-8, 9-9, 10-10, a-a
+2, h, h, h, h, h,  d,  d,  h,  s,  s,  s,  s,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   s,   s,   s,    s,  ph,  ph,   h,   d,  ph,   p,   p,   p,     s,   p
+3, h, h, h, h, d,  d,  d,  h,  s,  s,  s,  s,  s,  s,  s,  s,  s,   h,   h,   h,   h,   d,  ds,   s,   s,    s,  ph,  ph,   h,   d,   p,   p,   p,   p,     s,   p
+4, h, h, h, h, d,  d,  d,  s,  s,  s,  s,  s,  s,  s,  s,  s,  s,   h,   h,   d,   d,   d,  ds,   s,   s,    s,   p,   p,   h,   d,   p,   p,   p,   p,     s,   p
+5, h, h, h, h, d,  d,  d,  s,  s,  s,  s,  s,  s,  s,  s,  s,  s,   d,   d,   d,   d,   d,  ds,   s,   s,    s,   p,   p,  ph,   d,   p,   p,   p,   p,     s,   p
+6, h, h, h, h, d,  d,  d,  s,  s,  s,  s,  s,  s,  s,  s,  s,  s,   d,   d,   d,   d,   d,  ds,   s,   s,    s,   p,   p,  ph,   d,   p,   p,   p,   p,     s,   p
+7, h, h, h, h, h,  d,  d,  h,  h,  h,  h,  h,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   s,   s,   s,    s,   p,   p,   h,   d,   h,   p,   p,   s,     s,   p
+8, h, h, h, h, h,  d,  d,  h,  h,  h,  h,  h,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   s,   s,   s,    s,   h,   h,   h,   d,   h,   h,   p,   p,     s,   p
+9, h, h, h, h, h,  d,  d,  h,  h,  h,  h,  h,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   h,   s,   s,    s,   h,   h,   h,   d,   h,   h,   p,   p,     s,   p
+10,h, h, h, h, h,  h,  d,  h,  h,  h,  h,  h,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   h,   s,   s,    s,   h,   h,   h,   h,   h,   h,   p,   s,     s,   p
+a, h, h, h, h, h,  h,  h,  h,  h,  h,  h,  h,  s,  s,  s,  s,  s,   h,   h,   h,   h,   h,   h,   s,   s,    s,   h,   h,   h,   h,   h,   h,   p,   s,     s,   p
